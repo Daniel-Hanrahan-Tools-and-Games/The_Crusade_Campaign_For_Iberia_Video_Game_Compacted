@@ -1,0 +1,2 @@
+# The_Crusade_Campaign_For_Iberia_Video_Game_Compacted
+Compacted version of The_Crusade_Campaign_For_Iberia_Video_Game for the Tic-80
