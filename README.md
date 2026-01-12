@@ -1,7 +1,7 @@
 # The_Crusade_Campaign_For_Iberia_Video_Game_Adaptation_Compacted
 Compacted version of The_Crusade_Campaign_For_Iberia_Video_Game for the Tic-80 written in Lua
 
-Notice/title screen takes ten seconds to load the game on browser or you can press launch ball button.
+Notice/title screen takes ten seconds to load the game on browser or you can press select city button.
 
 Controls: Arrow keys or D-Pad for directing the cursor on what city to attack, z on keyboard or a on xbox style controllers for selecting a city, x on keyboard or b on xbox style controllers for going back to the menu.
 
